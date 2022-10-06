@@ -1,0 +1,5 @@
+packages:
+  - name: gify-bot
+    actions:
+      - name: gify-bot 
+        runtime: nodejs:default

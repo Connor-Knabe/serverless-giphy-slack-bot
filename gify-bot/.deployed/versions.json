@@ -1,0 +1,19 @@
+[
+  {
+    "apihost": "https://faas-nyc1-2ef2e6cc.doserverless.co",
+    "namespace": "fn-1cc2382b-414b-4e1b-9717-94c120c2a85d",
+    "packageVersions": {
+      "gify-bot": {
+        "version": "0.0.34",
+        "digest": "b3b25c09ec21ba19f74c85f3f7a6ea26a6e6acfd0a366a7f89fb594daff8e860"
+      }
+    },
+    "actionVersions": {
+      "gify-bot/gify-bot": {
+        "version": "0.0.132",
+        "digest": "ad5ed0614fb36f49972046ad555f416a1f4fa1373bd7d7456ef401bcbdf479bf"
+      }
+    },
+    "webHashes": {}
+  }
+]
